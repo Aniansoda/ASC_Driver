@@ -1,5 +1,4 @@
-- name: GKI Kernel Module Build Action
-  uses: feicong/android-kernel-build-action@v1
+name: 'GKI Kernel Module Build Action'
 description: 'An action to build Android GKI kernel modules.'
 
 branding:
